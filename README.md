@@ -1,6 +1,6 @@
 # Heart Stroke Detection
 
-![Banner](https://github.com/ranjithsamudrala/images/blob/main/cluster%20analysis.png)
+![Banner](https://github.com/ranjithsamudrala/images/blob/main/photo.webp)
 
 
 This project uses machine learning to predict the likelihood of a heart stroke based on various patient attributes.
