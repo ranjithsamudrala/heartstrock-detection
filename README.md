@@ -62,6 +62,3 @@ The model achieved an accuracy of 95.6% on the testing dataset.
 
 This project demonstrates the potential of machine learning in predicting heart stroke risk. The model developed in this project can be used to identify high-risk patients and take proactive measures to prevent heart strokes.
 
-## Installation
-
-To install the required libraries, run the following command:
